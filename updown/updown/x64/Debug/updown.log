@@ -1,0 +1,3 @@
+﻿  updown.c
+C:\Users\User\Documents\GitHub\17426027LGH\updown\updown\updown.c(7,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  updown.vcxproj -> C:\Users\User\Documents\GitHub\17426027LGH\updown\x64\Debug\updown.exe
