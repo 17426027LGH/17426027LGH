@@ -1,0 +1,14 @@
+﻿  prob2.c
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(18,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(19,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(20,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(21,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(28,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(29,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(30,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(31,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(38,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(39,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(40,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\prob2\prob2.c(41,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'book'입니다.
+  prob2.vcxproj -> C:\Users\User\Documents\GitHub\17426027LGH\9weeks\prob1\x64\Debug\prob2.exe
